@@ -1,0 +1,79 @@
+{
+    "categories":[
+        {
+            "name": "Women Clothing",
+        "subcategories":[
+            "Top-Wear",
+            "Bottom-Wear",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "Men Clothing",
+        "subcategories":[
+            "Top-Wear",
+            "Bottom-Wear",
+            "Accessories"
+
+        ]
+
+    },
+    {
+        "name": "Computer Accessories",
+        "subcategories": [
+            "Laptop & PC",
+            "Gaming",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "Auto Mobiles",
+        "subcategories":[
+            "Cars",
+            "Bikes",
+            "Accessories"
+        ]
+    },
+    {
+        "name":"Kid Toys",
+        "subcategories":[
+            "Top-Wear",
+            "Bottom-Wear",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "Sports",
+        "subcategories":[
+            "InDoor",
+            "OutDoor",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "Jewelery",
+        "subcategories":[
+            "Gold-Jewelery",
+            "Silver-Jewelery",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets",
+        "subcategories":[
+            "Mobiles",
+            "Tablets",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "Furnitures",
+        "subcategories":[
+            "Sofa",
+            "Bed",
+            "Accessories"
+        ]
+    }
+
+    ]
+}

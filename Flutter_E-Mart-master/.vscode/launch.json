@@ -1,0 +1,45 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Flutter_E-Mart-master",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Flutter_E-Mart-master (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Flutter_E-Mart-master (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "Flutter_EMart_SellerApp-master",
+            "cwd": "Flutter_EMart_SellerApp-master",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Flutter_EMart_SellerApp-master (profile mode)",
+            "cwd": "Flutter_EMart_SellerApp-master",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Flutter_EMart_SellerApp-master (release mode)",
+            "cwd": "Flutter_EMart_SellerApp-master",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
